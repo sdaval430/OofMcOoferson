@@ -2,7 +2,7 @@
 ## I'm Samuel Davalos
 
 Here's what's been going on so far and some fun facts:
-- ⚔ I'm trying to make a working replica of the Tomodachi Life "Tomodachi Quest" minigame RPG Mechanics from scratch through Java to hone my skills in the language. I might translate what I have so far into other languages such as Python as well to practice with other languages, and perhaps later tackle more complicated systems such as Pokemon's battle mechanics.
+- ⚔ I'm trying to make a working replica of the [Tomodachi Life "Tomodachi Quest" minigame](https://github.com/sdaval430/Tomodachi-Life-Tomodachi-Quest-Minigame-Java-) RPG Mechanics from scratch through Java to hone my skills in the language. I might translate what I have so far into other languages such as Python as well to practice with other languages, and perhaps later tackle more complicated systems such as Pokemon's battle mechanics.
 - 🖱 I'm currently learning about data structures and statistics at UIC, and I plan on seeking internship opportunities to get my foot firmly on the door and get a head start on my programming career.
 - 🎲 I play a variety of video games and trading card games in my spare time (especially Pokemon), and I like to apply my coding knowledge to these games to figure out probabilites and strategies.
 
